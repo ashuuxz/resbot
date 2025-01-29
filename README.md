@@ -2,11 +2,11 @@
 
 ````plaintext
 ╔═════════════════════════════════╗
-║ 🛠️ Informasi Script             ║
+║ 🛠️ Informasi Script
 ╠═════════════════════════════════╣
-║ 📦 Version    : 4.0             ║
-║ 👨‍💻 Developer : Azhari Creative ║
-║ 🌐 Website    : autoresbot.com  ║
+║ 📦 Version    : 4.0
+║ 👨‍💻 Developer : Azhari Creative
+║ 🌐 Website    : autoresbot.com
 ╚═════════════════════════════════╝
 
 ⚠ Peringatan:
