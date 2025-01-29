@@ -1,13 +1,18 @@
+# 🛠️ Informasi Script
+
+````plaintext
 ╔═════════════════════════════════╗
-║ 🛠️ Informasi Script
+║ 🛠️ Informasi Script             ║
 ╠═════════════════════════════════╣
-║ 📦 Version : 4.0
-║ 👨‍💻 Developer : Azhari Creative  
-║ 🌐 Website : autoresbot.com  
+║ 📦 Version    : 4.0             ║
+║ 👨‍💻 Developer : Azhari Creative ║
+║ 🌐 Website    : autoresbot.com  ║
 ╚═════════════════════════════════╝
 
-⚠️ Peringatan: SCRIPT INI TIDAK BOLEH DIPERJUALBELIKAN
-📌 Pembelian resmi hanya dapat dilakukan di website resmi: https://autoresbot.com
+⚠ Peringatan:
+SCRIPT INI TIDAK BOLEH DIPERJUALBELIKAN.
+📌 Pembelian resmi hanya dapat dilakukan di website resmi:
+👉 autoresbot.com
 
 # API USE from api.autoresbot.com
 
@@ -19,7 +24,7 @@ Pastikan Anda sudah menginstal package `api-autoresbot` melalui npm:
 
 ```bash
 npm install api-autoresbot
-```
+````
 
 const ApiAutoresbot = require('api-autoresbot');
 const api = new ApiAutoresbot('YOUR_APIKEY');
