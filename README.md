@@ -13,8 +13,8 @@
 ```javascript
 ⚠️ Peringatan:
 SCRIPT INI TIDAK BOLEH DIPERJUALBELIKAN.
-📌 Pembelian resmi hanya dapat dilakukan di website resmi:
-👉 autoresbot.com
+📌 Pembelian resmi hanya dapat dilakukan di website resmi
+[👉 autoresbot.com](https://autoresbot.com)
 ```
 
 # API USE from api.autoresbot.com
