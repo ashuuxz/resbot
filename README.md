@@ -9,10 +9,12 @@
 ║ 🌐 Website    : autoresbot.com
 ╚═════════════════════════════════╝
 
-⚠ Peringatan:
+```javascript
+⚠️ Peringatan:
 SCRIPT INI TIDAK BOLEH DIPERJUALBELIKAN.
 📌 Pembelian resmi hanya dapat dilakukan di website resmi:
 👉 autoresbot.com
+````
 
 # API USE from api.autoresbot.com
 
@@ -24,7 +26,7 @@ Pastikan Anda sudah menginstal package `api-autoresbot` melalui npm:
 
 ```bash
 npm install api-autoresbot
-````
+```
 
 ```javascript
 const ApiAutoresbot = require("api-autoresbot");
