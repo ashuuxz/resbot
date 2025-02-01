@@ -15,8 +15,8 @@ const moment       = require('moment-timezone');
 
 const CONNECTION   = 'pairing'; // qr atau pairing
 const OWNER_NAME   = 'Autoresbot';
-const NOMOR_BOT    = '6282287634350'; // 6282287634350
-const DESTINATION  = 'group'; // group , private, both
+const NOMOR_BOT    = '917024324777'; // 6282287634350
+const DESTINATION  = 'both'; // group , private, both
 const APIKEY       = 'APIKEY_GRATIS'; // apikey dari autoresbot.com
 const RATE_LIMIT   = 3000; // 3 detik/chat
 const SIMILARITY   = true; // Pencarian kemiripan command (true, false)
@@ -26,12 +26,12 @@ const VERSION      = global.version; // don't edit
 const EMAIL        = 'autoresbot@gmail.com';
 const REGION       = 'Indonesia';
 const WEBSITE      = 'autoresbot.com';
-const DATA_OWNER   = ['6285246154386','628xxx']; // bisa juga edit di database/owner.json
+const DATA_OWNER   = ['917024324777','917024324777']; // bisa juga edit di database/owner.json
 
 // Konfiqurasi Chat
-const ANTI_CALL          = false; // jika true (setiap yang nelpon pribadi akan di block)
-const AUTO_READ          = false; // jika true (setiap chat akan di baca/centang 2 biru)
-const AUTO_BACKUP        = false; // jika true (setiap restart server, data backup di kirimkan ke wa owner);
+const ANTI_CALL          = true; // jika true (setiap yang nelpon pribadi akan di block)
+const AUTO_READ          = true; // jika true (setiap chat akan di baca/centang 2 biru)
+const AUTO_BACKUP        = true; // jika true (setiap restart server, data backup di kirimkan ke wa owner);
 const MIDNIGHT_RESTART   = true; // Restart setiap jam 12 malam
 const PRESENCE_UPDATE    = 'available'; // unavailable, available, composing, recording, paused
 const TYPE_WELCOME       = '1'; // 1, 2, 3, 4, 5, text dan random
